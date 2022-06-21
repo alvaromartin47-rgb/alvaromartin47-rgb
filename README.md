@@ -8,7 +8,7 @@
         I'm Alvaro, a Student, and Linux enthusiast.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=Aguante+river+plate+caretas.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=Hablar+es+barato.+Enseñame+el+código.">
       <br>
       <b>
         ~ Rayhan Kafi Pratama ~
