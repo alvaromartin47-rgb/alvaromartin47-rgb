@@ -26,9 +26,8 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/rxxxyhn">twitter</a>]
-    [<a href="https://matrix.to/#/@rxyhn:matrix.org">matrix</a>]
-    [<a href="mailto:rxyhn@proton.me">e-mail</a>]
+    [<a href="https://twitter.com/alvaromartin47">twitter</a>]
+    [<a href="mailto:alvaro.martin1307@gmail.com">e-mail</a>]
   </samp>
 </p>
 
