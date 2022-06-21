@@ -3,14 +3,14 @@
   <p align="center">
     <samp>
       <b>
-        ¡Bienvenido!
+        ¡Hi there!
       <br>
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=--->+Clean+code,+good+practices+and+good+test+<---">
+        <image src="https://readme-typing-svg.herokuapp.com?font=monospace&size=14&color=BC83E3&center=true&width=410&height=45&lines=+Clean+code,+good+practices+and+good+test.">
       <br>
       <b>
-        ~ Alvaro Martin - Desarrollador de Software ~
+        ~ Alvaro Martin - Software development ~
       </b>
     </samp>
   </p>
