@@ -5,13 +5,13 @@
       <b>
         Hello There
       <br>
-        I'm Alvaro, a Student, and Linux enthusiast.
+        ¡Bienvenido!
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=Hablar+es+barato.+Enseñame+el+código.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=Juguemos a programar :)">
       <br>
       <b>
-        ~ Rayhan Kafi Pratama ~
+        ~ Alvaro Martin - Desarrollador de Software ~
       </b>
     </samp>
   </p>
