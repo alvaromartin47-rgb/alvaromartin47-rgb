@@ -7,7 +7,7 @@
       <br>
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=Juguemos+a+programar+:)">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=--->+Clean+code,+good+practices+and+good+test+<---">
       <br>
       <b>
         ~ Alvaro Martin - Desarrollador de Software ~
@@ -51,7 +51,6 @@
         <br>
         <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromartin47-rgb&layout=compact&hide_border=true&theme=github_dark"/>
         <br>
-        <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     </details>
   </samp>
 </p>
