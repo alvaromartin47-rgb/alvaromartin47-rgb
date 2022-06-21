@@ -7,7 +7,7 @@
       <br>
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=F7E7E7&width=600&lines=Clean+code%2C+good+practices+and+good+test.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=F7E7E7&width=500&lines=Clean+code%2C+good+practices+and+good+test.">
       <br>
       <b>
         ~ Alvaro Martin - Software development ~
