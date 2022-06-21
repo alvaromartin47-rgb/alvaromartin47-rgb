@@ -27,7 +27,7 @@
 <p align="center">
   <samp>
     [<a href="https://twitter.com/alvaromartin47">twitter</a>]
-    [<a href="https://instagram.com/alvaromartin47>Instagram</a>]
+    [<a href="https://instagram.com/alvaromartin47">Instagram</a>]
   </samp>
 </p>
 
