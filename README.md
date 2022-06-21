@@ -3,12 +3,11 @@
   <p align="center">
     <samp>
       <b>
-        Hello There
-      <br>
         ¡Bienvenido!
+      <br>
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=Juguemos a programar :)">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=BC83E3&center=true&width=410&height=45&lines=Juguemos+a+programar+:)">
       <br>
       <b>
         ~ Alvaro Martin - Desarrollador de Software ~
